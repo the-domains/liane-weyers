@@ -1,7 +1,7 @@
 name: Liane Weyers
 favicon: null
-layout_spectrum: 0.027618070365861058
-typography_spectrum: 0.6665173161309212
+layout_spectrum: 0.55958
+typography_spectrum: 0.80467
 title: The Artist
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.03356958390213549
-  lightness: 0.5983164149802178
+    - '#ffffff'
+    - '#060606'
+    - '#931c14'
+    - '#ababab'
+    - '#777777'
+  brandStrength: 0.125
+  lightness: 0.75
   saturation: 0.9714504508301616
   rhythmicContrast: 0.20856411010026932
 purpose: []
