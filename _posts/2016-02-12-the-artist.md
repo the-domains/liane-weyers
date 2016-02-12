@@ -6,22 +6,24 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-12T20:18:33.453Z'
-dateModified: '2016-02-12T20:15:32.319Z'
+datePublished: '2016-02-12T20:24:49.512Z'
+dateModified: '2016-02-12T20:24:06.882Z'
 title: The Artist
 author: []
+sourcePath: _posts/2016-02-12-the-artist.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-12-the-artist.md
-published: true
 url: the-artist/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd35ca6d-b138-4342-98bc-aa2e4f81bea2.jpg)
+
 Born, raised and living on the outskirts of the big city of Toronto, Ontario, Canada, with my loving and supportive husband along with our Bernese Mountain Dogs. We live alongside the beautiful Rouge Valley and not far from the shores of Lake Ontario the perfect location for lots of dog walking on trails. Along with our early morning trips down to the beach for a great run, frolicking in the sand followed by a cool swim.
 
 I have my own studio in our home where I now freelance, much of my work is geared towards illustrations and graphic design in product development.
