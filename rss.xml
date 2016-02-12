@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Liane Weyers]]></title>
+        <description><![CDATA[Liane Weyers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 12 Feb 2016 20:18:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Artist]]></title>
+            <description><![CDATA[<article><h1>The Artist</h1><p>Born, raised and living on the outskirts of the big city of Toronto, Ontario, Canada, with my loving and supportive husband along with our Bernese Mountain Dogs. We live alongside the beautiful Rouge Valley and not far from the shores of Lake Ontario the perfect location for lots of dog walking on trails. Along with our early morning trips down to the beach for a great run, frolicking in the sand followed by a cool swim.</p></article>]]></description>
+            <link>undefinedthe-artist/index.html</link>
+            <guid isPermaLink="false">80ce42f6-cb5f-40d3-8b17-594cd566f58f</guid>
+            <pubDate>Fri, 12 Feb 2016 20:18:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
